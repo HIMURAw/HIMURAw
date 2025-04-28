@@ -12,6 +12,7 @@ PixelDevelopment is a software development community focused on FiveM and web pr
 
 - **FiveM Scripting**: qb-core, custom scripts, server management, Lua.
 - **Web Development**: HTML, CSS, JavaScript, Node.js.
+- **Language**: Html, Css, Javascript, C#, Lua, node.js, discord.js.
 - **Databases**: MySQL.
 - **Version Control**: Git, GitHub.
 
