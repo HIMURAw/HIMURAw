@@ -15,12 +15,10 @@ PixelDevelopment is a software development community focused on FiveM and web pr
 - **Databases**: MySQL.
 - **Version Control**: Git, GitHub.
 
-## GitHub Stats
+## GitHub Contribution Graph
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMURAw&show_icons=true&hide_title=true&count_private=true)
+![GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=HIMURAw)
 
-## Getting Started
+## GitHub Streak Stats
 
-To get started, follow these steps:
-
-### 1. Clone the Repository
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw)
