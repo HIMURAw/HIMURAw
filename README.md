@@ -22,4 +22,4 @@ PixelDevelopment is a software development community focused on FiveM and web pr
 
 ## GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw)
+![GitHub Streak](https://streak-stats.demolab.com?user=HIMURAw)
