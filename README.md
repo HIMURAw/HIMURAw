@@ -6,7 +6,6 @@ PixelDevelopment is a software development community focused on FiveM and web pr
 
 - **FiveM Scripts**: Custom scripts and tools for FiveM servers.
 - **Web Development**: Tools for web design and optimization.
-- **Custom CSS Library**: Stylish and functional CSS styles for web projects.
 
 ## Skills
 
