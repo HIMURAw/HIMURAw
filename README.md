@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himuraw&show_icons=true&locale=en&layout=compact" alt="himuraw" /></p>
 
-<p>&nbsp;<img align="center" src="" alt="himuraw" /></p>
+<p>&nbsp;<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw" alt="himuraw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himuraw&" alt="himuraw" /></p>
