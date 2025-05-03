@@ -71,6 +71,13 @@
   <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/>
   </a>
+  <a href="https://fivem.net/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fivem/fivem-original.svg" alt="FiveM" width="40" height="40"/>
+</a>
+<a href="https://github.com/qbcore-framework/qb-core" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="qb-core" width="40" height="40"/>
+</a>
+
 </p>
 
 
