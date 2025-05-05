@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=radical" alt="himuraw" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=dark" alt="himuraw" />
 </p>
 
 <p align="center">
