@@ -69,9 +69,7 @@
   <a href="https://discord.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40" />
   </a>
-  <a href="https://fivem.net/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1162023166823116850/1368348295809732689/bcbfc5ae3d074d8734b9f51e64f7e95d4325485e0c51661dcf3167e45d768a8d_200.webp?ex=6817e528&is=681693a8&hm=025cdac755ffe6ddb9ab3d728858dee23e834c0ba7ee8b1c24ae3d2a638104fd&" alt="FiveM" width="40" height="40" />
-  </a>
+ 
   <a href="https://github.com/qbcore-framework/qb-core" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/1162023166823116850/1368347994025627729/81791099.png?ex=6817e4e0&is=68169360&hm=87391b22b4415fa6f76014c02a84238a8e67fbe3dbb5c83bb917073d360a9d7e&" alt="qb-core" width="40" height="40" />
   </a>
