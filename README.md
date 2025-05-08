@@ -69,6 +69,16 @@
   <a href="https://discord.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40" />
   </a>
+<!-- React -->
+<a href="https://reactjs.org" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40" />
+</a>
+
  
   <a href="https://github.com/qbcore-framework/qb-core" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/1162023166823116850/1368347994025627729/81791099.png?ex=6817e4e0&is=68169360&hm=87391b22b4415fa6f76014c02a84238a8e67fbe3dbb5c83bb917073d360a9d7e&" alt="qb-core" width="40" height="40" />
