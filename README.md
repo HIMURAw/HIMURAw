@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
   </a>
   <a href="https://discord.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="discord.js" width="40" height="40" />
+    <img src="https://cdn.discordapp.com/attachments/1334549593341562971/1371550064933212304/discordjs.png?ex=68238b09&is=68223989&hm=172228da39de3da887cf8aa710566eecf80e57ba7677e95048ebf54a0f8651a3&" alt="discord.js" width="40" height="40" />
   </a>
 <!-- React -->
 <a href="https://reactjs.org" target="_blank">
