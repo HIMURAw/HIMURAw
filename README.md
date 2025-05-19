@@ -32,26 +32,52 @@
   </a>
 </p>
 
-## Programming Languages
-
-[![JavaScript](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript  
-[![C#](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/csharp.png)](https://www.w3schools.com/cs/) C#  
-[![HTML5](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/html.png)](https://www.w3.org/html/) HTML5  
-[![CSS3](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/css.png)](https://www.w3schools.com/css/) CSS3  
-[![Lua](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/lua.png)](https://www.lua.org/) Lua  
-
-## Technologies & Tools
-
-[![React](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/react.png)](https://reactjs.org) React  
-[![Node.js](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/nodejs.png)](https://nodejs.org) Node.js  
-[![Electron.js](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/electron.png)](https://electronjs.org) Electron.js  
-[![Express](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/express.png)](https://expressjs.com) Express  
-[![Git](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/git.png)](https://git-scm.com/) Git  
-[![MySQL](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/mysql.png)](https://www.mysql.com/) MySQL  
-[![PostgreSQL](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/postgresql.png)](https://www.postgresql.org) PostgreSQL  
-[![Arduino](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/arduino.png)](https://www.arduino.cc/) Arduino  
-[![discord.js](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/discord.js.webp)](https://discord.js.org/) discord.js  
-[![qb-core](https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/qbcore.png)](https://github.com/qbcore-framework/qb-core) qb-core  
+<h3 align="center" style="color: red;">Languages and Tools 🔧</h3>
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
+  </a>
+  <a href="https://discord.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/discord.js.webp" alt="discord.js" width="40" height="40" />
+  </a>
+  <!-- React -->
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://github.com/qbcore-framework/qb-core" target="_blank">
+    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/qbcore.png" alt="qb-core" width="40" height="40" />
+  </a>
+</p>
 
 
 <p align="center">
