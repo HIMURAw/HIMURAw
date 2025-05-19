@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
   </a>
   <a href="https://discord.js.org/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1334549593341562971/1371550064933212304/discordjs.png?ex=68238b09&is=68223989&hm=172228da39de3da887cf8aa710566eecf80e57ba7677e95048ebf54a0f8651a3&" alt="discord.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/discord.js.webp" alt="discord.js" width="40" height="40" />
   </a>
 <!-- React -->
 <a href="https://reactjs.org" target="_blank">
@@ -75,7 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
 </a>
   <a href="https://github.com/qbcore-framework/qb-core" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1334549593341562971/1371549022686543983/81791099.png?ex=68238a11&is=68223891&hm=73676ec4bd56868cc9273f926e486b065b6bd1794c893c2c7c3e5f73d98c9ecb&" alt="qb-core" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/qbcore.png" alt="qb-core" width="40" height="40" />
   </a>
 </p>
 
