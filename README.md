@@ -29,7 +29,7 @@
 
 <h3 align="center">My Discord Server:</h3>
 <p align="center">
-  <a href="https://discord.gg/nVp5ktAkBf" target="blank">
+  <a href="https://discord.gg/pxdev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" />
   </a>
 </p>
