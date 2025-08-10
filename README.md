@@ -33,17 +33,6 @@ const HIMURAw = {
     motto: "Code with passion, build with purpose"
 };
 ```
-
-### 🌟 What Sets Me Apart
-
-- 🎨 **Design-First Approach** — Every project starts with exceptional UI/UX
-- ⚡ **Performance Obsessed** — Optimized code that scales beautifully
-- 🛡️ **Security Minded** — Advanced protection with TCPASF suite
-- 🤝 **Community Driven** — Building tools that empower thousands
-- 🔄 **Continuous Innovation** — Always pushing the boundaries
-
----
-
 ### 🌟 What Sets Me Apart
 
 - 🎨 **Design-First Approach** — Every project starts with exceptional UI/UX
