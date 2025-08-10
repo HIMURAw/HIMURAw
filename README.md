@@ -1,99 +1,349 @@
-<img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-<h1 align="center">Hi 👋, I'm Umut Öztürk</h1>
-<h3 align="center">Code. Create. Contribute ✨</h3>
+# 🚀 AlphaDev - Full-Stack Developer & FiveM Architect
 
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=himuraw&label=Profile%20views&color=0e75b6&style=flat" alt="himuraw" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FiveM%20&%20full%20stack%20Web%20&%20developer&descAlignY=55&descAlign=50)
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=himuraw&theme=gruvbox" alt="himura" />
-  </a> 
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Algeria;FiveM+Script+Architect;UI%2FUX+Designer+%26+Community+Builder;5%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
 
+</div>
 
-<h3 align="center">Connect With Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/umut-öztürk-224501344" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-öztürk" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/768372430631731210" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/768372430631731210" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/umut_ozturk006" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="center">My Discord Server:</h3>
-<p align="center">
-  <a href="https://discord.gg/pxdev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" />
-  </a>
-</p>
+## 🎯 About Me
 
-<h3 align="center" style="color: red;">Languages and Tools 🔧</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-<a href="https://expressjs.com" target="_blank" style="background-color: #000000; border-radius: 5px; padding: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-</a>
+> **21-year-old visionary developer from Algeria**, transforming ideas into premium digital experiences that power communities worldwide.
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40" />
-  </a>
-  <a href="https://discord.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/discord.js.webp" alt="discord.js" width="40" height="40" />
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://github.com/qbcore-framework/qb-core" target="_blank">
-    <img src="https://raw.githubusercontent.com/HIMURAw/HIMURA-IMAGE/main/qbcore.png" alt="qb-core" width="40" height="40" />
-  </a>
-</p>
+```typescript
+const AlphaDev = {
+    location: "Algeria 🇩🇿",
+    age: 21,
+    role: "Full-Stack Developer & FiveM Architect",
+    languages: ["Lua", "JavaScript", "Python", "CSS", "HTML"],
+    specializations: [
+        "Premium FiveM Script Development",
+        "Interactive UI/UX Design", 
+        "Discord Bot Architecture",
+        "Advanced Security Solutions"
+    ],
+    community: "W Development - 10K+ Members",
+    motto: "Code with passion, build with purpose"
+};
+```
 
+### 🌟 What Sets Me Apart
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himuraw&show_icons=true&locale=en&layout=compact&theme=dark" alt="himuraw" />
-</p>
+- 🎨 **Design-First Approach** — Every project starts with exceptional UI/UX
+- ⚡ **Performance Obsessed** — Optimized code that scales beautifully
+- 🛡️ **Security Minded** — Advanced protection with TCPASF suite
+- 🤝 **Community Driven** — Building tools that empower thousands
+- 🔄 **Continuous Innovation** — Always pushing the boundaries
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=dark" alt="himuraw" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himuraw&theme=dark" alt="himuraw" />
-</p>
+## 🏆 GitHub Analytics
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=AlphaDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaDev&theme=react-dark&hide_border=true&radius=16)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Premium FiveM Solutions
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 [`alpha-menu`](https://github.com/AlphaDev/alpha-menu)
+**NoPixel-Inspired Interactive Menu**
+- 🎨 Fully customizable CSS themes
+- ⚡ Smooth animations & transitions  
+- 🔧 Plug-and-play integration
+- 📱 Mobile-responsive design
+
+```css
+/* Advanced CSS Architecture */
+.menu-container {
+    backdrop-filter: blur(20px);
+    border-radius: 12px;
+    animation: slideIn 0.3s ease;
+}
+```
+
+</td>
+<td width="50%">
+
+### 🏦 [`alpha-banking`](https://github.com/AlphaDev/alpha-banking)
+**Next-Gen Banking System**
+- 💳 QBCore deep integration
+- 🔐 Advanced security protocols
+- 📊 Real-time transaction tracking
+- 🎯 Intuitive admin panel
+
+```lua
+-- High-Performance Lua Code
+Config.Security = {
+    encryption = "AES-256",
+    rateLimit = 100,
+    antiExploit = true
+}
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ [`tcpasf-tool`](https://github.com/AlphaDev/tcpasf-tool)
+**Advanced Security Suite**
+- 🔍 Real-time threat detection
+- 🛡️ Anti-cheat mechanisms
+- 📈 Performance monitoring  
+- 🚨 Automated incident response
+
+```python
+# AI-Powered Security
+class ThreatDetector:
+    def analyze_patterns(self):
+        return self.ml_engine.detect_anomalies()
+```
+
+</td>
+<td width="50%">
+
+### 🤖 [`Advanced-Discord-Bot`](https://github.com/AlphaDev/Advanced-Discord-Bot-by-AlphaDev)
+**Enterprise Discord Solution**
+- 🎯 Advanced moderation tools
+- 🎮 Interactive games & activities
+- 📊 Analytics dashboard
+- 🔧 Custom command framework
+
+```javascript
+// Scalable Architecture
+class BotFramework extends EventEmitter {
+    constructor() {
+        super();
+        this.loadModules();
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏗️ Additional Innovations
+
+| Project | Category | Tech Stack | Status |
+|---------|----------|------------|--------|
+| [`alpha-mission`](https://github.com/AlphaDev/alpha-mission) | 🎯 Mission System | Lua + MySQL | ✅ Active |
+| [`wd-bossmenu`](https://github.com/AlphaDev/wd-bossmenu) | 💼 Management | JS + CSS3 | ✅ Active |
+| [`alpha-vehiclemenu`](https://github.com/AlphaDev/alpha-vehiclemenu) | 🚗 Vehicle System | Vue.js + Lua | ✅ Active |
+| [`alpha-garages`](https://github.com/AlphaDev/alpha-garages) | 🏢 Storage System | React + Node | ✅ Active |
+
+[**📂 View All Repositories →**](https://github.com/AlphaDev?tab=repositories)
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+### 🎯 Specializations
+
+```mermaid
+mindmap
+  root((AlphaDev))
+    FiveM Development
+      QBCore Framework
+      ESX Framework  
+      Custom Resources
+      Performance Optimization
+    Web Development
+      Frontend Design
+      Backend Architecture
+      API Development
+      Database Management
+    Security & Tools
+      TCPASF Suite
+      Anti-Cheat Systems
+      Penetration Testing
+      Code Auditing
+    Community Building
+      Discord Bots
+      Server Management
+      Developer Mentoring
+      Open Source
+```
+
+</div>
+
+---
+
+## 🌍 Community Impact
+
+<div align="center">
+
+### 🏢 W Development Community
+
+[![Discord](https://img.shields.io/discord/DISCORD_ID?color=7289da&label=W%20Development&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dF5C55hQYB)
+
+</div>
+
+- 👥 **10,000+** Active developers and roleplayers
+- 🔧 **500+** Custom scripts distributed
+- 🎯 **50+** Server partnerships worldwide  
+- 📚 Daily tutorials and workshops
+- 🤝 24/7 developer support
+
+---
+
+## 📊 Development Philosophy
+
+<div align="center">
+
+```ascii
+╭─────────────────────────────────────────────╮
+│  "Code is poetry written in logic"          │
+│                                             │
+│  ✨ Clean, readable, maintainable          │
+│  🚀 Performance-first approach             │
+│  🎨 User experience obsessed               │
+│  🔐 Security by design                     │
+│  🤝 Community-driven development           │
+╰─────────────────────────────────────────────╯
+```
+
+</div>
+
+### 🎯 Current Focus Areas
+
+- 🔮 **AI Integration** — Implementing machine learning in FiveM scripts
+- 🌐 **Web3 & Blockchain** — Exploring decentralized gaming economies  
+- 📱 **Mobile Development** — React Native companion apps
+- 🎮 **Game Engine Development** — Custom FiveM framework architecture
+
+---
+
+## 📈 2024 Goals & Achievements
+
+<div align="center">
+
+| Goal | Progress | Status |
+|------|----------|--------|
+| 🚀 Launch 10 premium scripts | ████████░░ 80% | 🟡 In Progress |
+| 👥 Reach 15K community members | ███████░░░ 70% | 🟡 In Progress |
+| 📚 Publish development course | ██████████ 100% | ✅ Complete |
+| 🏆 Open source 5 major projects | ████████░░ 80% | 🟡 In Progress |
+| 🌍 International collaboration | ██████░░░░ 60% | 🟡 In Progress |
+
+</div>
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+
+### 🌐 Digital Presence
+
+[![Website](https://img.shields.io/badge/Portfolio-alphadev.thteam.me-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alphadev.thteam.me/)
+[![Email](https://img.shields.io/badge/Email-tcpasf@thteam.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcpasf@thteam.me)
+[![Discord](https://img.shields.io/badge/Discord-alphadzd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alphadzd)
+
+### 💼 Professional Services
+
+- 🎯 **Custom FiveM Development** — Tailored solutions for your server
+- 🎨 **UI/UX Design** — Modern interfaces that captivate users  
+- 🛡️ **Security Consulting** — Protect your digital assets
+- 🤖 **Discord Bot Development** — Automate and enhance communities
+- 📚 **Code Reviews & Mentoring** — Level up your development skills
+
+</div>
+
+---
+
+## 🏅 Recognition & Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlphaDev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/AlphaDev?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/AlphaDev?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/AlphaDev?label=Total%20Stars&style=for-the-badge&color=blueviolet)](https://github.com/AlphaDev)
+
+### 🏆 Notable Achievements
+
+- 🥇 **Top FiveM Developer** — Recognized by community vote
+- 🌟 **1000+ GitHub Stars** — Across all repositories
+- 👥 **Community Leader** — W Development founder & mentor
+- 🔐 **Security Expert** — TCPASF suite creator
+- 📚 **Open Source Advocate** — Contributing to developer education
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Code
+
+> *"Every bug is a puzzle waiting to be solved, every feature is a dream waiting to come alive."*
+
+---
+
+### 🤝 Let's Build Something Amazing Together
+
+**Ready to transform your ideas into reality?**  
+Whether you need a custom FiveM script, a stunning web application, or want to join our thriving developer community — I'm here to help you succeed.
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Get%20In%20Touch-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://discord.gg/dF5C55hQYB)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn)
+
+**⭐ If you find my work valuable, consider starring my repositories!**
+
+</div>
+
+---
+
+## 📄 License & Legal
+
+This profile README and associated repositories are distributed under the **MIT License**. See individual repository LICENSE files for specific terms.
+
+**© 2024 AlphaDev. All rights reserved.**
