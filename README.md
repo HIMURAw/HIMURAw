@@ -14,24 +14,35 @@
 
 ## 🎯 About Me
 
-> **21-year-old visionary developer from Algeria**, transforming ideas into premium digital experiences that power communities worldwide.
+> **16-year-old visionary developer from Turkey**, transforming ideas into premium digital experiences that power communities worldwide.
 
 ```typescript
-const AlphaDev = {
-    location: "Algeria 🇩🇿",
-    age: 21,
+const HIMURAw = {
+    location: "HIMURA  🇹🇷",
+    age: 16,
     role: "Full-Stack Developer & FiveM Architect",
-    languages: ["Lua", "JavaScript", "Python", "CSS", "HTML"],
+    language: ["Lua", "JavaScript", "Typescript", "CSS", "HTML", "C#"],
+    tecnologia: ["React", "node.js", "discord.js", "express.js", "qb-core", "ex_extendet", "drizzle", "mysql", "postgresql"]
     specializations: [
         "Premium FiveM Script Development",
         "Interactive UI/UX Design", 
         "Discord Bot Architecture",
-        "Advanced Security Solutions"
+        "Web designer"
     ],
-    community: "W Development - 10K+ Members",
+    community: "PXDevelopment - 1K+ Members",
     motto: "Code with passion, build with purpose"
 };
 ```
+
+### 🌟 What Sets Me Apart
+
+- 🎨 **Design-First Approach** — Every project starts with exceptional UI/UX
+- ⚡ **Performance Obsessed** — Optimized code that scales beautifully
+- 🛡️ **Security Minded** — Advanced protection with TCPASF suite
+- 🤝 **Community Driven** — Building tools that empower thousands
+- 🔄 **Continuous Innovation** — Always pushing the boundaries
+
+---
 
 ### 🌟 What Sets Me Apart
 
