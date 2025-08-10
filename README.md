@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=FiveM&%20full%20stack%20Web%20&%20developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20of%20premium%20FiveM%20scripts%20and%20full%20stack%20solutions&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Algeria;FiveM+Script+Architect;UI%2FUX+Designer+%26+Community+Builder;5%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
 
