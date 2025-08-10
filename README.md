@@ -53,14 +53,14 @@ const HIMURAw = {
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-    <img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    <img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
   </div>
 
   <br/>
 
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; align-items: center;">
-<img width="390" src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=react" alt="GitHub Stats" />
+<img width="390" src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="GitHub Stats" />
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react" alt="GitHub Trophies" />
 </div>
 
