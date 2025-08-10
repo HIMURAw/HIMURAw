@@ -4,7 +4,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20of%20premium%20FiveM%20scripts%20and%20full%20stack%20solutions&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ffff&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+TURKEY;FiveM+Script+Architect;UI%2FUX+Designer+%26+Community+Builder;5%2B+Years+of+Coding+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ffff&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Turkey;Expert+FiveM+Script+Developer;Passionate+UI%2FUX+Designer+%26+Mentor;Half+a+decade+of+coding+mastery
+)](https://git.io/typing-svg)
 
 </div>
 
