@@ -54,18 +54,33 @@ const HIMURAw = {
 
 ---
 
+
 ## 🏆 GitHub Analytics
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=AlphaDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=HIMURAw&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  </div>
 
-<br/>
+  <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaDev&theme=react-dark&hide_border=true&radius=16)
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; align-items: center;">
+<img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react" alt="GitHub Trophies" />
+</div>
+
+
+  <br/>
+
+  <div style="text-align: center;">
+    <img width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=HIMURAw&theme=react-dark&hide_border=true&radius=16" alt="GitHub Activity Graph" />
+  </div>
 
 </div>
+
 
 ---
 
