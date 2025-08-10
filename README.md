@@ -1,5 +1,5 @@
 
-<div align="center"> # 🚀 HIMURAw - Full-Stack Developer & FiveM Architect </div>
+<p align="center"> # 🚀 HIMURAw - Full-Stack Developer & FiveM Architect </p>
 
 <div align="center">
 
