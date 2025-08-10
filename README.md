@@ -59,12 +59,8 @@ const HIMURAw = {
     alt="Streak Stats" 
     style="border-radius: 10px;"
   />
-  <img 
-    width="390" 
-    src="https://camo.githubusercontent.com/0c71035a4b5d0d3e3f4ef6e9ea32fda56614a6e085c573992d22bd52f7bda9e2/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d48494d55524177267468656d653d6461726b" 
-    alt="GitHub Stats" 
-    style="border-radius: 10px;"
-  />
+    <img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+
 </div>
 
 
@@ -72,7 +68,12 @@ const HIMURAw = {
 
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; align-items: center;">
-<img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  <img 
+    width="390" 
+    src="https://camo.githubusercontent.com/0c71035a4b5d0d3e3f4ef6e9ea32fda56614a6e085c573992d22bd52f7bda9e2/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d48494d55524177267468656d653d6461726b" 
+    alt="GitHub Stats" 
+    style="border-radius: 10px;"
+  />
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react" alt="GitHub Trophies" />
 </div>
 
