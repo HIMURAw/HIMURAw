@@ -1,5 +1,5 @@
 
-<p align="center"> # 🚀 HIMURAw - Full-Stack Developer & FiveM Architect </p>
+<p align="center"> 🚀 HIMURAw - Full-Stack Developer & FiveM Architect </p>
 
 <div align="center">
 
@@ -33,6 +33,7 @@ const HIMURAw = {
     motto: "Code with passion, build with purpose"
 };
 ```
+
 ### 🌟 What Sets Me Apart
 
 - 🎨 **Design-First Approach** — Every project starts with exceptional UI/UX
@@ -42,6 +43,9 @@ const HIMURAw = {
 - 🔄 **Continuous Innovation** — Always pushing the boundaries
 
 ---
+
+
+
 
 
 ## 🏆 GitHub Analytics
@@ -73,108 +77,18 @@ const HIMURAw = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
 
-### 🌟 Premium FiveM Solutions
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 [`alpha-menu`](https://github.com/AlphaDev/alpha-menu)
-**NoPixel-Inspired Interactive Menu**
-- 🎨 Fully customizable CSS themes
-- ⚡ Smooth animations & transitions  
-- 🔧 Plug-and-play integration
-- 📱 Mobile-responsive design
-
-```css
-/* Advanced CSS Architecture */
-.menu-container {
-    backdrop-filter: blur(20px);
-    border-radius: 12px;
-    animation: slideIn 0.3s ease;
-}
-```
-
-</td>
-<td width="50%">
-
-### 🏦 [`alpha-banking`](https://github.com/AlphaDev/alpha-banking)
-**Next-Gen Banking System**
-- 💳 QBCore deep integration
-- 🔐 Advanced security protocols
-- 📊 Real-time transaction tracking
-- 🎯 Intuitive admin panel
-
-```lua
--- High-Performance Lua Code
-Config.Security = {
-    encryption = "AES-256",
-    rateLimit = 100,
-    antiExploit = true
-}
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ [`tcpasf-tool`](https://github.com/AlphaDev/tcpasf-tool)
-**Advanced Security Suite**
-- 🔍 Real-time threat detection
-- 🛡️ Anti-cheat mechanisms
-- 📈 Performance monitoring  
-- 🚨 Automated incident response
-
-```python
-# AI-Powered Security
-class ThreatDetector:
-    def analyze_patterns(self):
-        return self.ml_engine.detect_anomalies()
-```
-
-</td>
-<td width="50%">
-
-### 🤖 [`Advanced-Discord-Bot`](https://github.com/AlphaDev/Advanced-Discord-Bot-by-AlphaDev)
-**Enterprise Discord Solution**
-- 🎯 Advanced moderation tools
-- 🎮 Interactive games & activities
-- 📊 Analytics dashboard
-- 🔧 Custom command framework
-
-```javascript
-// Scalable Architecture
-class BotFramework extends EventEmitter {
-    constructor() {
-        super();
-        this.loadModules();
-    }
-}
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🏗️ Additional Innovations
+### 🏗️ Projects
 
 | Project | Category | Tech Stack | Status |
 |---------|----------|------------|--------|
-| [`alpha-mission`](https://github.com/AlphaDev/alpha-mission) | 🎯 Mission System | Lua + MySQL | ✅ Active |
-| [`wd-bossmenu`](https://github.com/AlphaDev/wd-bossmenu) | 💼 Management | JS + CSS3 | ✅ Active |
-| [`alpha-vehiclemenu`](https://github.com/AlphaDev/alpha-vehiclemenu) | 🚗 Vehicle System | Vue.js + Lua | ✅ Active |
-| [`alpha-garages`](https://github.com/AlphaDev/alpha-garages) | 🏢 Storage System | React + Node | ✅ Active |
-
-[**📂 View All Repositories →**](https://github.com/AlphaDev?tab=repositories)
+| [`PX-Guard`](https://github.com/HIMURAw/PX-Guard) | 🎯 Guard System | JS + MongoDB | ✅ Active |
+| [`Pixel-license`](https://github.com/HIMURAw/Pixel-license) | 💼 License System | JS + Lua | ✅ Active |
+| [`Backdoor-scanner`](https://github.com/HIMURA/Backdoor-scanner) | 🎯 Guard System | Batchfile | ✅ Active |
+| [`BotBase`](https://github.com/HIMURAw/BotBase) | 🏢 Base System | JS | ✅ Active |
+| [`PXBotBaseTS`](https://github.com/HIMURAw/PXBotBaseTS) | 🏢 Base System | TS | ✅ Active |
+[**📂 View All Repositories →**](https://github.com/HIMURAw?tab=repositories)
 
 </div>
 
@@ -364,3 +278,4 @@ Whether you need a custom FiveM script, a stunning web application, or want to j
 This profile README and associated repositories are distributed under the **MIT License**. See individual repository LICENSE files for specific terms.
 
 **© 2024 AlphaDev. All rights reserved.**
+
