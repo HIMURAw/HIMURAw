@@ -51,29 +51,16 @@ const HIMURAw = {
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    width="390" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw&count_private=true&theme=react&border_radius=10" 
-    alt="Streak Stats" 
-    style="border-radius: 10px;"
-  />
-    
-    <img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-
-</div>
-
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
+    <img width="390" src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=react" alt="GitHub Stats" />
+  </div>
 
   <br/>
 
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; align-items: center;">
-  <img 
-    width="390" 
-    src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=react" 
-    alt="GitHub Stats" 
-    style="border-radius: 10px;"
-  />
+<img width="390" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react" alt="GitHub Trophies" />
 </div>
 
@@ -86,8 +73,6 @@ const HIMURAw = {
 
 </div>
 
-
----
 
 ---
 
