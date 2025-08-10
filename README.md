@@ -205,7 +205,7 @@ mindmap
 
 ### 🌐 Digital Presence
 
-[![Email](https://img.shields.io/badge/Email-tcpasf@thteam.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developmentpixel854@gmail.com)
+[![Email](https://img.shields.io/badge/Email-developmentpixel854@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developmentpixel854@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-HIMURA-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
 </div>
 
