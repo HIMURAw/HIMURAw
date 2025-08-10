@@ -22,7 +22,7 @@ const HIMURAw = {
     age: 16,
     role: "Full-Stack Developer & FiveM Architect",
     language: ["Lua", "JavaScript", "Typescript", "CSS", "HTML", "C#"],
-    tecnologia: ["React", "node.js", "discord.js", "express.js", "qb-core", "ex_extendet", "drizzle", "mysql", "postgresql"]
+    tecnologia: ["React", "node.js", "discord.js", "express.js", "qb-core", "ex_extendet", "drizzle", "mysql", "postgresql", "mongodb", "arduino"]
     specializations: [
         "Premium FiveM Script Development",
         "Interactive UI/UX Design", 
@@ -98,48 +98,37 @@ const HIMURAw = {
 
 <div align="center">
 
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
 ### 💻 Languages & Frameworks
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🔧 Tools & Platforms
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-2F8F9D?style=for-the-badge) <!-- QBCore resmi logo yok, renk seçtim -->
+![ESX Extended](https://img.shields.io/badge/ESX-Extended-4A90E2?style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-0D47A1?style=for-the-badge) <!-- Resmi logo yok, koyu mavi seçtim -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🎯 Specializations
+</div>
 
-```mermaid
-mindmap
-  root((AlphaDev))
-    FiveM Development
-      QBCore Framework
-      ESX Framework  
-      Custom Resources
-      Performance Optimization
-    Web Development
-      Frontend Design
-      Backend Architecture
-      API Development
-      Database Management
-    Security & Tools
-      TCPASF Suite
-      Anti-Cheat Systems
-      Penetration Testing
-      Code Auditing
-    Community Building
-      Discord Bots
-      Server Management
-      Developer Mentoring
-      Open Source
-```
+
 
 </div>
 
@@ -149,19 +138,21 @@ mindmap
 
 <div align="center">
 
-### 🏢 W Development Community
+### 🏢 PXDevelopment Community
 
-[![Discord](https://img.shields.io/discord/DISCORD_ID?color=7289da&label=W%20Development&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/dF5C55hQYB)
+[![Discord](https://img.shields.io/badge/Discord-PX%20Development%20|%20pixeldev-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/pxdev)
+
 
 </div>
 
-- 👥 **10,000+** Active developers and roleplayers
+- 👥 **500+** Active developers and roleplayers
 - 🔧 **500+** Custom scripts distributed
-- 🎯 **50+** Server partnerships worldwide  
+- 🎯 **10+** Server partnerships worldwide  
 - 📚 Daily tutorials and workshops
 - 🤝 24/7 developer support
 
 ---
+
 
 ## 📊 Development Philosophy
 
@@ -169,61 +160,27 @@ mindmap
 
 ```ascii
 ╭─────────────────────────────────────────────╮
-│  "Code is poetry written in logic"          │
+│  "Code is where passion meets logic"        │
 │                                             │
-│  ✨ Clean, readable, maintainable          │
-│  🚀 Performance-first approach             │
-│  🎨 User experience obsessed               │
-│  🔐 Security by design                     │
-│  🤝 Community-driven development           │
+│  ✨ Clean, clear, and maintainable code     │
+│  🚀 Performance and optimization first      │
+│  🎨 User experience always takes priority   │
+│  🔐 Security baked into every design        │
+│  🤝 Growing and evolving with the community │
 ╰─────────────────────────────────────────────╯
 ```
 
 </div>
 
-### 🎯 Current Focus Areas
-
-- 🔮 **AI Integration** — Implementing machine learning in FiveM scripts
-- 🌐 **Web3 & Blockchain** — Exploring decentralized gaming economies  
-- 📱 **Mobile Development** — React Native companion apps
-- 🎮 **Game Engine Development** — Custom FiveM framework architecture
 
 ---
-
-## 📈 2024 Goals & Achievements
-
-<div align="center">
-
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🚀 Launch 10 premium scripts | ████████░░ 80% | 🟡 In Progress |
-| 👥 Reach 15K community members | ███████░░░ 70% | 🟡 In Progress |
-| 📚 Publish development course | ██████████ 100% | ✅ Complete |
-| 🏆 Open source 5 major projects | ████████░░ 80% | 🟡 In Progress |
-| 🌍 International collaboration | ██████░░░░ 60% | 🟡 In Progress |
-
-</div>
-
----
-
-## 📬 Connect & Collaborate
 
 <div align="center">
 
 ### 🌐 Digital Presence
 
-[![Website](https://img.shields.io/badge/Portfolio-alphadev.thteam.me-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alphadev.thteam.me/)
-[![Email](https://img.shields.io/badge/Email-tcpasf@thteam.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcpasf@thteam.me)
-[![Discord](https://img.shields.io/badge/Discord-alphadzd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/alphadzd)
-
-### 💼 Professional Services
-
-- 🎯 **Custom FiveM Development** — Tailored solutions for your server
-- 🎨 **UI/UX Design** — Modern interfaces that captivate users  
-- 🛡️ **Security Consulting** — Protect your digital assets
-- 🤖 **Discord Bot Development** — Automate and enhance communities
-- 📚 **Code Reviews & Mentoring** — Level up your development skills
-
+[![Email](https://img.shields.io/badge/Email-tcpasf@thteam.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developmentpixel854@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-HIMURA-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
 </div>
 
 ---
@@ -232,39 +189,13 @@ mindmap
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlphaDev&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/AlphaDev?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/AlphaDev?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AlphaDev?label=Total%20Stars&style=for-the-badge&color=blueviolet)](https://github.com/AlphaDev)
-
-### 🏆 Notable Achievements
-
-- 🥇 **Top FiveM Developer** — Recognized by community vote
-- 🌟 **1000+ GitHub Stars** — Across all repositories
-- 👥 **Community Leader** — W Development founder & mentor
-- 🔐 **Security Expert** — TCPASF suite creator
-- 📚 **Open Source Advocate** — Contributing to developer education
+![Profile Views](https://komarev.com/ghpvc/?username=HIMURAw&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/AlphaDev?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/HIMURAw?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/AlphaDev?label=Total%20Stars&style=for-the-badge&color=blueviolet)](https://github.com/HIMURAw)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Quote of the Code
-
-> *"Every bug is a puzzle waiting to be solved, every feature is a dream waiting to come alive."*
-
----
-
-### 🤝 Let's Build Something Amazing Together
-
-**Ready to transform your ideas into reality?**  
-Whether you need a custom FiveM script, a stunning web application, or want to join our thriving developer community — I'm here to help you succeed.
-
-[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-Get%20In%20Touch-blueviolet?style=for-the-badge&logo=handshake&logoColor=white)](https://discord.gg/dF5C55hQYB)
-
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn)
 
 **⭐ If you find my work valuable, consider starring my repositories!**
@@ -272,10 +203,4 @@ Whether you need a custom FiveM script, a stunning web application, or want to j
 </div>
 
 ---
-
-## 📄 License & Legal
-
-This profile README and associated repositories are distributed under the **MIT License**. See individual repository LICENSE files for specific terms.
-
-**© 2024 AlphaDev. All rights reserved.**
 
