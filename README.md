@@ -126,6 +126,33 @@ const HIMURAw = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+### 🎯 Specializations
+
+```mermaid
+mindmap
+  root((AlphaDev))
+    FiveM Development
+      QBCore Framework
+      ESX Framework  
+      Custom Resources
+      Performance Optimization
+    Web Development
+      Frontend Design
+      Backend Architecture
+      API Development
+      Database Management
+    Security & Tools
+      TCPASF Suite
+      Anti-Cheat Systems
+      Penetration Testing
+      Code Auditing
+    Community Building
+      Discord Bots
+      Server Management
+      Developer Mentoring
+      Open Source
+```
+
 </div>
 
 
