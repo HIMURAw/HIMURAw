@@ -130,7 +130,7 @@ const HIMURAw = {
 
 ```mermaid
 mindmap
-  root((AlphaDev))
+  root((HIMURAw))
     FiveM Development
       QBCore Framework
       ESX Framework  
@@ -142,7 +142,6 @@ mindmap
       API Development
       Database Management
     Security & Tools
-      TCPASF Suite
       Anti-Cheat Systems
       Penetration Testing
       Code Auditing
