@@ -1,9 +1,9 @@
 
-<p align="center"> 🚀 HIMURAw - Full-Stack Developer & FiveM Architect </p>
+<p align="center"> 🚀 HIMURAw - Full-Stack Developer </p>
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20of%20premium%20FiveM%20scripts%20and%20full%20stack%20solutions&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20of%20FiveM%20scripts%20and%20full%20stack%20solutions&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ffff&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Turkey;Expert+FiveM+Script+Developer;Passionate+UI%2FUX+Designer+%26+Mentor;Half+a+decade+of+coding+mastery
 )](https://git.io/typing-svg)
@@ -18,13 +18,13 @@
 
 ```typescript
 const HIMURAw = {
-    location: "HIMURA  🇹🇷",
+    location: "🇹🇷",
     age: 16,
     role: "Full-Stack Developer & FiveM Architect",
     language: ["Lua", "JavaScript", "Typescript", "CSS", "HTML", "C#"],
     tecnologia: ["React", "node.js", "discord.js", "express.js", "qb-core", "ex_extendet", "drizzle", "mysql", "postgresql", "mongodb", "arduino"]
     specializations: [
-        "Premium FiveM Script Development",
+        "FiveM Script Development",
         "Interactive UI/UX Design", 
         "Discord Bot Architecture",
         "Web designer"
