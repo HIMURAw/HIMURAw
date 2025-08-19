@@ -157,18 +157,6 @@ const HIMURAw = {
 </div>
 
 ---
-
-## 🏅 Recognition & Metrics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=HIMURAw&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/AlphaDev?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/HIMURAw?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AlphaDev?label=Total%20Stars&style=for-the-badge&color=blueviolet)](https://github.com/HIMURAw)
-
-</div>
-
----
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn)
 
 **⭐ If you find my work valuable, consider starring my repositories!**
