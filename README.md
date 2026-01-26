@@ -71,7 +71,7 @@ const HIMURAw = {
 
 
 ### 🏗️ Projects
-
+<div align="center">
 | Project | Category | Tech Stack | Status |
 |---------|----------|------------|--------|
 | [`PX-Guard`](https://github.com/HIMURAw/PX-Guard) | 🎯 Guard System | JS + MongoDB | ✅ Active |
@@ -163,4 +163,3 @@ const HIMURAw = {
 [![İnstagram](https://img.shields.io/badge/instagram-umut_ozturk006-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut_ozturk006/)
 </div>
 </div>
----
