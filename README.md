@@ -22,7 +22,7 @@ const HIMURAw = {
     age: 16,
     role: "Full-Stack Developer & FiveM Architect",
     language: ["Lua", "JavaScript", "Typescript", "CSS", "HTML", "C#"],
-    tecnologia: ["React", "node.js", "discord.js", "express.js", "qb-core", "ex_extendet", "drizzle", "mysql", "postgresql", "mongodb", "arduino"]
+    tecnologia: ["React", "node.js", "next.js", "Tailwindcss", "discord.js", "express.js", "qb-core", "mysql", "postgresql", "mongodb", "arduino"]
     specializations: [
         "FiveM Script Development",
         "Interactive UI/UX Design", 
