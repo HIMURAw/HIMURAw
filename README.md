@@ -71,7 +71,7 @@ const HIMURAw = {
 
 
 ### 🏗️ Projects
-<div align="center">
+<p align="center">
 | Project | Category | Tech Stack | Status |
 |---------|----------|------------|--------|
 | [`PX-Guard`](https://github.com/HIMURAw/PX-Guard) | 🎯 Guard System | JS + MongoDB | ✅ Active |
@@ -81,7 +81,7 @@ const HIMURAw = {
 | [`PXBotBaseTS`](https://github.com/HIMURAw/PXBotBaseTS) | 🏢 Base System | TS | ✅ Active |
 [**📂 View All Repositories →**](https://github.com/HIMURAw?tab=repositories)
 
-</div>
+</p>
 
 ---
 
