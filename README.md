@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HIMURAw&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20of%20FiveM%20scripts%20and%20full%20stack%20solutions&descAlignY=55&descAlign=50)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ffff&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Turkey;Expert+FiveM+Script+Developer;Passionate+UI%2FUX+Designer+%26+Mentor;Half+a+decade+of+coding+mastery
 )](https://git.io/typing-svg)
 
@@ -14,12 +12,12 @@
 
 ## 🎯 About Me
 
-> **16-year-old visionary developer from Turkey**, transforming ideas into premium digital experiences that power communities worldwide.
+> **17-year-old visionary developer from Turkey**, transforming ideas into premium digital experiences that power communities worldwide.
 
 ```typescript
 const HIMURAw = {
     location: "🇹🇷",
-    age: 16,
+    age: 17,
     role: "Full-Stack Developer & FiveM Architect",
     language: ["Lua", "JavaScript", "Typescript", "CSS", "HTML", "C#"],
     tecnologia: ["React", "node.js", "next.js", "Tailwindcss", "discord.js", "express.js", "qb-core", "mysql", "postgresql", "mongodb", "arduino"]
@@ -108,16 +106,21 @@ const HIMURAw = {
 ### 🔧 Tools & Platforms
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![QBCore](https://img.shields.io/badge/QBCore-2F8F9D?style=for-the-badge) <!-- QBCore resmi logo yok, renk seçtim -->
-![ESX Extended](https://img.shields.io/badge/ESX-Extended-4A90E2?style=for-the-badge)
-![Drizzle](https://img.shields.io/badge/Drizzle-0D47A1?style=for-the-badge) <!-- Resmi logo yok, koyu mavi seçtim -->
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![QBCore](https://img.shields.io/badge/QBCore-2F8F9D?style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-0D47A1?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 </div>
 
@@ -133,7 +136,7 @@ const HIMURAw = {
 
 ### 🏢 PXDevelopment Community
 
-[![Discord](https://img.shields.io/badge/Discord-PX%20Development%20|%20pixeldev-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/pxdev)
+[![Discord](https://img.shields.io/badge/Discord-PX%20Development%20|%20pxdev-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/pxdev)
 
 
 </div>
@@ -159,9 +162,6 @@ const HIMURAw = {
 [![Discord](https://img.shields.io/badge/Discord-HIMURA-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
 [![İnstagram](https://img.shields.io/badge/instagram-umut_ozturk006-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut_ozturk006/)
 </div>
-
----
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn)
 
 **⭐ If you find my work valuable, consider starring my repositories!**
 
