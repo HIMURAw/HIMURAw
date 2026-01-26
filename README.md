@@ -38,7 +38,10 @@ const HIMURAw = {
 
 
 ## 🏆 GitHub Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=HIMURAw&color=blue)
+
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;" align="center">
+    ![Profile Views](https://komarev.com/ghpvc/?username=HIMURAw&color=blue)
+  </div>
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
