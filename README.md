@@ -39,9 +39,9 @@ const HIMURAw = {
 
 ## 🏆 GitHub Analytics
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;" align="center">
-    [Profile Views](https://komarev.com/ghpvc/?username=HIMURAw&color=blue)
-  </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HIMURAw&label=Profile%20Views&color=blue" />
+</p>
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
