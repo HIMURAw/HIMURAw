@@ -156,6 +156,6 @@ const HIMURAw = {
 
 [![Email](https://img.shields.io/badge/Email-developmentpixel854@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developmentpixel854@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-HIMURA-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
-[![İnstagram](https://img.shields.io/badge/instagram-umut_ozturk006-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut_ozturk006/)
+[![İnstagram](https://img.shields.io/badge/instagram-umut_ozturk006-7289DA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut.ozturk0_/)
 </div>
 </div>
