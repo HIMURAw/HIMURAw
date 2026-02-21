@@ -49,20 +49,6 @@ const HIMURAw = {
 
   <br/>
 
-
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; align-items: center;">
-<img width="390" src="https://github-contribution-stats.vercel.app/api/?username=HIMURAw&theme=react" alt="GitHub Stats" />
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&theme=react" alt="GitHub Trophies" />
-</div>
-
-
-
-  <br/>
-
-  <div style="text-align: center;">
-    <img width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=HIMURAw&theme=react-dark&hide_border=true&radius=16" alt="GitHub Activity Graph" />
-  </div>
-
 </div>
 
 
