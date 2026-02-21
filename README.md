@@ -67,19 +67,6 @@ const HIMURAw = {
 
 
 ---
-
-
-
-### 🏗️ Projects
-| Project | Category | Tech Stack | Status |
-|---------|----------|------------|--------|
-| [`PX-Guard`](https://github.com/HIMURAw/PX-Guard) | 🎯 Guard System | JS + MongoDB | ✅ Active |
-| [`Pixel-license`](https://github.com/HIMURAw/Pixel-license) | 💼 License System | JS + Lua | ✅ Active |
-| [`Backdoor-scanner`](https://github.com/HIMURA/Backdoor-scanner) | 🎯 Guard System | Batchfile | ✅ Active |
-| [`BotBase`](https://github.com/HIMURAw/BotBase) | 🏢 Base System | JS | ✅ Active |
-| [`PXBotBaseTS`](https://github.com/HIMURAw/PXBotBaseTS) | 🏢 Base System | TS | ✅ Active |
-[**📂 View All Repositories →**](https://github.com/HIMURAw?tab=repositories)
-
 ---
 ## 🛠️ Technology Arsenal
 
