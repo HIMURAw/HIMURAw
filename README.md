@@ -167,6 +167,5 @@ const HIMURAw = {
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Egemenlik%2C%20kay%C4%B1ts%C4%B1z%20%C5%9Farts%C4%B1z%20milletindir." />
-  <p>— <b>Mustafa Kemal ATATÜRK</b></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Egemenlik%2C%20kay%C4%B1ts%C4%B1z%20%C5%9Farts%C4%B1z%20milletindir.&author=Mustafa%20Kemal%20Atatürk" />
 </div>
