@@ -137,16 +137,6 @@ const HIMURAw = {
 
 ---
 
-### 🎮 Discord Status & Activity
-
-<div align="center">
-  <a href="https://discord.com/users/768372430631731210">
-    <img src="https://lanyard.websandbox.xyz/api/768372430631731210?bg=0D1117&title_color=00ffff&text_color=ffffff&border_color=00ffff" alt="Discord Status" />
-  </a>
-</div>
-
----
-
 ### 🌍 Community & Impact
 
 <div align="center">
@@ -180,7 +170,8 @@ const HIMURAw = {
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
+  <h3>"Hayatta en hakiki mürşit ilimdir."</h3>
+  <p>— <b>Mustafa Kemal ATATÜRK</b></p>
 </div>
 
 <p align="center">
