@@ -165,15 +165,8 @@ const HIMURAw = {
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HIMURAw/HIMURAw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <div align="center">
-  <h3>"Hayatta en hakiki mürşit ilimdir."</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Egemenlik%2C%20kay%C4%B1ts%C4%B1z%20%C5%9Farts%C4%B1z%20milletindir." />
   <p>— <b>Mustafa Kemal ATATÜRK</b></p>
 </div>
-
-<p align="center">
-  <i>"Transforming coffee into code since day one."</i>
-</p>
