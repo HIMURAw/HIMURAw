@@ -7,8 +7,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut.ozturk0_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamtos79@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-ozturk-025a9a1b6/)
-[![Website](https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=chrome&logoColor=white)](https://umutozturk.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/umut-ozturk-025a9a1b6/)
+[![Website](https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umutozturk.me)
 </div>
 
 ---
@@ -22,11 +22,12 @@ const HIMURAw = {
     location: "🇹🇷 Turkey",
     age: 17,
     role: "Full-Stack Developer & FiveM Architect",
-    languages: ["Lua", "JavaScript", "TypeScript", "CSS", "HTML", "C#"],
+    languages: ["Lua", "JavaScript", "TypeScript", "CSS", "HTML", "C#", "Python", "Java", "Sass"],
     technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Discord.js"],
+        frontend: ["React", "Next.js", "Tailwind CSS", "Electron"],
+        backend: ["Node.js", "Express.js", "Discord.js", "QBCore", "Nginx", "Apache"],
         database: ["MySQL", "PostgreSQL", "MongoDB", "Drizzle"],
+        tools: ["Git", "GitHub", "VSCode", "Linux", "WordPress"],
         hardware: ["Arduino"]
     },
     specializations: [
@@ -48,9 +49,13 @@ const HIMURAw = {
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **PIXEON Store** | Premium E-commerce platform for gaming | Next.js, Prisma, MySQL | [View](https://github.com/HIMURAw) |
-| **Advanced FiveM Scripts** | High-performance custom game systems | Lua, JavaScript, UI | [View](https://github.com/HIMURAw) |
-| **PX-Bot Ecosystem** | Multi-purpose Discord architecture | Discord.js, Node.js | [View](https://github.com/HIMURAw) |
+| **PIXEON** | Premium Full-Stack E-Commerce & Gaming Ecosystem. | Next.js, Prisma | 🚧 Developing... |
+| **PX-Guard** | Powerful Discord Guard Bot with anti-raid, anti-spam, and moderation features. | JavaScript | [View](https://github.com/HIMURAw/PX-Guard) |
+| **Pixel-License** | FiveM package license discord bot. | JavaScript | [View](https://github.com/HIMURAw/Pixel-License) |
+| **Backdoor-scanner** | FiveM backdoor scanner | Batchfile | [View](https://github.com/HIMURAw/Backdoor-scanner) |
+| **BotBase** | Discord.js v14 Bot Base | JavaScript | [View](https://github.com/HIMURAw/BotBase) |
+| **PXBotBaseTS** | TypeScript ile yapılmış modüler Discord bot altyapısı. | TypeScript | [View](https://github.com/HIMURAw/PXBotBaseTS) |
+| **PX-AmazonJob** | FiveM Job script | Lua | [View](https://github.com/HIMURAw/PX-AmazonJob) |
 
 </div>
 
