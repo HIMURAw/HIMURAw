@@ -221,18 +221,6 @@ const HIMURAw = {
 
 ---
 
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-developmentpixel854@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developmentpixel854@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-HIMURA-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768372430631731210)
-[![Instagram](https://img.shields.io/badge/Instagram-umut.ozturk0_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umut.ozturk0_/)
-
-</div>
-
----
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Egemenlik%2C%20kay%C4%B1ts%C4%B1z%20%C5%9Farts%C4%B1z%20milletindir.&author=Mustafa%20Kemal%20Atatürk" />
