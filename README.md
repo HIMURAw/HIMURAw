@@ -212,11 +212,6 @@ const HIMURAw = {
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HIMURAw&show_icons=true&theme=dark&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMURAw&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffff&text_color=ffffff&hide=Jupyter%20Notebook,Roff" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HIMURAw&theme=react-dark&bg_color=0D1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
 </div>
 
