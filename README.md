@@ -23,7 +23,7 @@
 const HIMURAw = {
     location: "🇹🇷 Turkey",
     age: 17,
-    role: "Full-Stack Developer & FiveM Architect",
+    role: "Full-Stack Developer",
     languages: ["Lua", "JavaScript", "TypeScript", "CSS", "HTML", "C#", "Python", "Java", "Sass"],
     technologies: {
         frontend: ["React", "Next.js", "Tailwind CSS", "Electron"],
@@ -33,7 +33,6 @@ const HIMURAw = {
         hardware: ["Arduino"]
     },
     specializations: [
-        "FiveM Script Development (QBCore Expert)",
         "Interactive UI/UX Design", 
         "Discord Bot Architecture",
         "Web Systems Design"
