@@ -42,7 +42,7 @@ const HIMURAw = {
     motto: "Code with passion, build with purpose"
 };
 ```
-
+ <!--
 ---
 
 ### 🚀 Featured Projects
@@ -60,7 +60,7 @@ const HIMURAw = {
 | **PX-AmazonJob** | FiveM Job script | Lua | [View](https://github.com/HIMURAw/PX-AmazonJob) |
 
 </div>
-
+-->
 ---
 
 <div align="center">
@@ -223,23 +223,6 @@ const HIMURAw = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIMURAw&theme=dark&background=0D1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff" />
 </p>
-
-
----
-
-### 🌍 Community & Impact
-
-<div align="center">
-
-#### 🏢 PXDevelopment Community
-[![Discord](https://img.shields.io/badge/Discord-PX%20Development%20|%20pxdev-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/pxdev)
-
-- 👥 **1000+** Members in our ecosystem
-- 🎯 **10+** Server partnerships worldwide  
-- 📚 High-quality script documentation & support
-- 🤝 24/7 developer community interaction
-
-</div>
 
 ---
 
