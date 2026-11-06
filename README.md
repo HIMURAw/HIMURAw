@@ -17,7 +17,8 @@
 
 ### 🎯 About Me
 
-> **17-year-old visionary developer from Turkey**, transforming ideas into premium digital experiences that power communities worldwide.
+> I'm **Umut Öztürk**, a 17-year-old full-stack developer from Ankara, Turkey, transforming ideas into premium digital experiences that power communities worldwide.
+> Portfolio: **[umutozturk.me](https://umutozturk.me)**
 
 ```typescript
 const HIMURAw = {
