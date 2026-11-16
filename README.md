@@ -35,4 +35,4 @@ Take all of it or only the parts you like:
 
 #### Tools
 
-Next.js · React · TypeScript · Node.js · MySQL (Prisma, Drizzle) · React Native / Expo · Python · GNOME Shell · Linux · Lua
+Next.js · React · TypeScript · Node.js · MySQL (Prisma, Drizzle) · React Native / Expo · Python · GNOME Shell · Linux · Lua · Javascript
